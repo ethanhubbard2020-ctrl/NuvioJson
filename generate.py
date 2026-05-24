@@ -1,7 +1,6 @@
 import json
 import urllib.request
 import os
-from datetime import datetime
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 REPO = "luqmanfadlli/NuvioMobile-iOS"
@@ -18,40 +17,62 @@ req = urllib.request.Request(API_URL, headers=headers)
 with urllib.request.urlopen(req) as resp:
     releases = json.loads(resp.read())
 
-versions = []
+appstore_versions = []
+full_versions = []
+
 for release in releases:
-    ipa_asset = next(
-        (a for a in release.get("assets", []) if a["name"].endswith(".ipa")), None
-    )
-    if not ipa_asset:
-        continue
-    versions.append({
-        "version": release["tag_name"].lstrip("v"),
-        "date": release["published_at"][:10],
-        "localizedDescription": (release.get("body") or "").strip()[:300],
-        "downloadURL": ipa_asset["browser_download_url"],
-        "size": ipa_asset["size"],
-    })
+    assets = release.get("assets", [])
+    tag = release["tag_name"].lstrip("v")
+    date = release["published_at"][:10]
+    desc = (release.get("body") or "").strip()[:300]
+
+    for asset in assets:
+        if not asset["name"].endswith(".ipa"):
+            continue
+        entry = {
+            "version": tag,
+            "date": date,
+            "localizedDescription": desc,
+            "downloadURL": asset["browser_download_url"],
+            "size": asset["size"],
+        }
+        if "AppStore" in asset["name"]:
+            appstore_versions.append(entry)
+        else:
+            full_versions.append(entry)
+
+icon = "https://github.com/NuvioMedia/NuvioMobile/raw/main/NuvioMobile/Assets.xcassets/AppIcon.appiconset/1024.png"
 
 source = {
     "name": "Nuvio Mobile",
-    "identifier": "com.nuviomobile.source",
+    "identifier": "com.nuvio.media.source",
     "apiVersion": "v2",
     "subtitle": "Unofficial Nuvio Mobile IPA source",
     "description": "Auto-updated Nuvio Mobile builds from luqmanfadlli's GitHub releases.",
-    "iconURL": "https://github.com/NuvioMedia/NuvioMobile/raw/main/NuvioMobile/Assets.xcassets/AppIcon.appiconset/1024.png",
+    "iconURL": icon,
     "apps": [
         {
-            "name": "Nuvio Mobile",
-            "bundleIdentifier": "com.nuviomedia.nuviomobile",
+            "name": "Nuvio (AppStore)",
+            "bundleIdentifier": "com.nuvio.media",
             "developerName": "luqmanfadlli",
-            "subtitle": "Unofficial full-featured Nuvio build",
-            "localizedDescription": "An unofficial build of Nuvio Mobile for iOS with full features enabled.",
-            "iconURL": "https://github.com/NuvioMedia/NuvioMobile/raw/main/NuvioMobile/Assets.xcassets/AppIcon.appiconset/1024.png",
+            "subtitle": "AppStore variant",
+            "localizedDescription": "AppStore build of Nuvio Mobile.",
+            "iconURL": icon,
             "tintColor": "000000",
             "screenshotURLs": [],
-            "versions": versions,
-        }
+            "versions": appstore_versions,
+        },
+        {
+            "name": "Nuvio (Full)",
+            "bundleIdentifier": "com.nuvio.media.full",
+            "developerName": "luqmanfadlli",
+            "subtitle": "Full variant with all features",
+            "localizedDescription": "Full build of Nuvio Mobile with all features enabled.",
+            "iconURL": icon,
+            "tintColor": "000000",
+            "screenshotURLs": [],
+            "versions": full_versions,
+        },
     ],
     "news": [],
 }
@@ -59,4 +80,4 @@ source = {
 with open("apps.json", "w") as f:
     json.dump(source, f, indent=2)
 
-print(f"Written {len(versions)} versions.")
+print(f"AppStore versions: {len(appstore_versions)}, Full versions: {len(full_versions)}")
