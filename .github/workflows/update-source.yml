@@ -1,0 +1,24 @@
+name: Update Feather Source
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # runs every hour
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate apps.json
+        run: python3 generate.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add apps.json
+          git diff --cached --quiet || git commit -m "Update apps.json" && git push
