@@ -17,8 +17,7 @@ req = urllib.request.Request(API_URL, headers=headers)
 with urllib.request.urlopen(req) as resp:
     releases = json.loads(resp.read())
 
-appstore_versions = []
-full_versions = []
+versions = []
 
 for release in releases:
     assets = release.get("assets", [])
@@ -29,17 +28,14 @@ for release in releases:
     for asset in assets:
         if not asset["name"].endswith(".ipa"):
             continue
-        entry = {
-            "version": tag,
+        label = "AppStore" if "AppStore" in asset["name"] else "Full"
+        versions.append({
+            "version": f"{tag} ({label})",
             "date": date,
             "localizedDescription": desc,
             "downloadURL": asset["browser_download_url"],
             "size": asset["size"],
-        }
-        if "AppStore" in asset["name"]:
-            appstore_versions.append(entry)
-        else:
-            full_versions.append(entry)
+        })
 
 icon = "https://github.com/NuvioMedia/NuvioMobile/raw/main/NuvioMobile/Assets.xcassets/AppIcon.appiconset/1024.png"
 
@@ -52,27 +48,16 @@ source = {
     "iconURL": icon,
     "apps": [
         {
-            "name": "Nuvio (AppStore)",
+            "name": "Nuvio",
             "bundleIdentifier": "com.nuvio.media",
             "developerName": "luqmanfadlli",
-            "subtitle": "AppStore variant",
-            "localizedDescription": "AppStore build of Nuvio Mobile.",
+            "subtitle": "Unofficial full-featured Nuvio build",
+            "localizedDescription": "Nuvio Mobile for iOS. Choose AppStore or Full variant from version history.",
             "iconURL": icon,
             "tintColor": "000000",
             "screenshotURLs": [],
-            "versions": appstore_versions,
-        },
-        {
-            "name": "Nuvio (Full)",
-            "bundleIdentifier": "com.nuvio.media.full",
-            "developerName": "luqmanfadlli",
-            "subtitle": "Full variant with all features",
-            "localizedDescription": "Full build of Nuvio Mobile with all features enabled.",
-            "iconURL": icon,
-            "tintColor": "000000",
-            "screenshotURLs": [],
-            "versions": full_versions,
-        },
+            "versions": versions,
+        }
     ],
     "news": [],
 }
@@ -80,4 +65,4 @@ source = {
 with open("apps.json", "w") as f:
     json.dump(source, f, indent=2)
 
-print(f"AppStore versions: {len(appstore_versions)}, Full versions: {len(full_versions)}")
+print(f"Written {len(versions)} versions.")
