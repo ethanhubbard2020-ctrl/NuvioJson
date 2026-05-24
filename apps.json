@@ -1,0 +1,86 @@
+{
+  "name": "Nuvio Mobile",
+  "identifier": "com.nuviomobile.source",
+  "apiVersion": "v2",
+  "subtitle": "Unofficial Nuvio Mobile IPA source",
+  "description": "Auto-updated Nuvio Mobile builds from luqmanfadlli's GitHub releases.",
+  "iconURL": "https://github.com/NuvioMedia/NuvioMobile/raw/main/NuvioMobile/Assets.xcassets/AppIcon.appiconset/1024.png",
+  "apps": [
+    {
+      "name": "Nuvio Mobile",
+      "bundleIdentifier": "com.nuviomedia.nuviomobile",
+      "developerName": "luqmanfadlli",
+      "subtitle": "Unofficial full-featured Nuvio build",
+      "localizedDescription": "An unofficial build of Nuvio Mobile for iOS with full features enabled.",
+      "iconURL": "https://github.com/NuvioMedia/NuvioMobile/raw/main/NuvioMobile/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "tintColor": "000000",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.1.24",
+          "date": "2026-05-23",
+          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.24",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.24/Nuvio-v0.1.24-AppStore.ipa",
+          "size": 35420310
+        },
+        {
+          "version": "0.1.24-Enhanced",
+          "date": "2026-05-24",
+          "localizedDescription": "This release is based on Nuvio v0.1.24 with added unmerged PR and features on the official release, such as:\r\n- updated Indonesian localization\r\n- scrollable language selection\r\n- relocated Trakt into Integrations Setting\r\n- Top10 Catalogs Home\r\n- LiveTV integrations",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.24-Enhanced/Nuvio-v0.1.24-Enhanced.ipa",
+          "size": 36842805
+        },
+        {
+          "version": "0.1.23",
+          "date": "2026-05-21",
+          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.23",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.23/Nuvio-v0.1.23-AppStore.ipa",
+          "size": 35076828
+        },
+        {
+          "version": "0.1.22",
+          "date": "2026-05-20",
+          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.22",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.22/Nuvio-v0.1.22-Full.ipa",
+          "size": 37574351
+        },
+        {
+          "version": "0.1.21",
+          "date": "2026-05-17",
+          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.21",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.21/Nuvio-v0.1.21-Full.ipa",
+          "size": 35856067
+        },
+        {
+          "version": "0.1.20",
+          "date": "2026-05-16",
+          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.20",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.20/Nuvio-v0.1.20-Full.ipa",
+          "size": 37119803
+        },
+        {
+          "version": "0.1.19",
+          "date": "2026-05-13",
+          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.19",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.19/Nuvio-v0.1.19-Full.ipa",
+          "size": 35545711
+        },
+        {
+          "version": "0.1.18",
+          "date": "2026-05-12",
+          "localizedDescription": "See the original repo release notes for more details",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.18/Nuvio-v0.1.18-Full.ipa",
+          "size": 35463064
+        },
+        {
+          "version": "0.1.17",
+          "date": "2026-05-09",
+          "localizedDescription": "Initial build based on cmp-rewrite branch of the original repo. See the original repo release notes for more details",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.17/Nuvio-v0.1.17-Full.ipa",
+          "size": 35189190
+        }
+      ]
+    }
+  ],
+  "news": []
+}
