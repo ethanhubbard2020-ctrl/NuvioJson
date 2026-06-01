@@ -20,6 +20,13 @@
           "version": "0.2.0-Enhanced (Full)",
           "date": "2026-05-31",
           "localizedDescription": "This release is based on Nuvio major update v0.2.0 with added unmerged PR and features on the official release, such as:\r\n- scrollable language selection\r\n- relocated Trakt into Integrations Setting\r\n- LiveTV integrations\r\n- animated GIF avatar support for iOS\r\n- change \"Play\" to \"Watch Again\" butto",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.0-Enhanced/Nuvio-v0.2.0-Enhanced%2BPiP.ipa",
+          "size": 37473591
+        },
+        {
+          "version": "0.2.0-Enhanced (Full)",
+          "date": "2026-05-31",
+          "localizedDescription": "This release is based on Nuvio major update v0.2.0 with added unmerged PR and features on the official release, such as:\r\n- scrollable language selection\r\n- relocated Trakt into Integrations Setting\r\n- LiveTV integrations\r\n- animated GIF avatar support for iOS\r\n- change \"Play\" to \"Watch Again\" butto",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.0-Enhanced/Nuvio-v0.2.0-Enhanced.ipa",
           "size": 37476040
         },
