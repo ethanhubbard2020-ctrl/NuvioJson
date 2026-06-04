@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.3-Enhanced (Full)",
+          "date": "2026-06-04",
+          "localizedDescription": "This release is based on Nuvio hotfix update v0.2.3 with added unsubmitted test-features, such as:\r\n- feat: relocated Trakt into Integrations Setting\r\n- feat: LiveTV integrations\r\n- feat: change \"Play\" to \"Watch Again\" button for watched movies\r\n- feat: implementation of Picture-in-Picture in iOS\r\n-",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.3-Enhanced/Nuvio-v0.2.3-Enhanced.ipa",
+          "size": 37988256
+        },
+        {
           "version": "0.2.1-Enhanced (Full)",
           "date": "2026-06-02",
           "localizedDescription": "This release is based on Nuvio major update v0.2.1 with added unmerged PR and features on the official release, such as:\r\n- ~scrollable language selection~ (merged)\r\n- relocated Trakt into Integrations Setting\r\n- LiveTV integrations\r\n- ~animated GIF avatar support for iOS~ (merged)\r\n- change \"Play\" ",
