@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.4 (Full)",
+          "date": "2026-06-07",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.4\r\n\r\nThis release is synchronized with the upstream **Nuvio v0.2.4**. For full details on the base changes, please refer to the [original NuvioMobile release notes](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.4).\r\n\r\nFrom this point forward, releases will be split into",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.4/Nuvio-v0.2.4-Enhanced.ipa",
+          "size": 37679908
+        },
+        {
+          "version": "0.2.4 (Full)",
+          "date": "2026-06-07",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.4\r\n\r\nThis release is synchronized with the upstream **Nuvio v0.2.4**. For full details on the base changes, please refer to the [original NuvioMobile release notes](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.4).\r\n\r\nFrom this point forward, releases will be split into",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.4/Nuvio-v0.2.4-Full.ipa",
+          "size": 37560747
+        },
+        {
           "version": "0.2.3-Enhanced (Full)",
           "date": "2026-06-04",
           "localizedDescription": "This release is based on Nuvio hotfix update v0.2.3 with added unsubmitted test-features, such as:\r\n- feat: relocated Trakt into Integrations Setting\r\n- feat: LiveTV integrations\r\n- feat: change \"Play\" to \"Watch Again\" button for watched movies\r\n- feat: implementation of Picture-in-Picture in iOS\r\n-",
