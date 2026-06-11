@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.5 (Full)",
+          "date": "2026-06-11",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.5\r\n\r\nThis release is synchronized with the upstream **Nuvio v0.2.5**. For full details on the base changes, please refer to the [original NuvioMobile release notes](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.5).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant i",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.5/Nuvio-v0.2.5-Full.ipa",
+          "size": 37947985
+        },
+        {
           "version": "0.2.4 (Full)",
           "date": "2026-06-07",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.4\r\n\r\nThis release is synchronized with the upstream **Nuvio v0.2.4**. For full details on the base changes, please refer to the [original NuvioMobile release notes](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.4).\r\n\r\nFrom this point forward, releases will be split into",
