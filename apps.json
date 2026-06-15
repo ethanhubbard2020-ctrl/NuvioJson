@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.8 (Full)",
+          "date": "2026-06-15",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.8\r\n\r\nThis release is slightly different from the upstream **Nuvio v0.2.8** because the changes in the App.kt makes Nuvio cashed on iOS and I have to make adjustment.\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plu",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.8/Nuvio-v0.2.8-Enhanced.ipa",
+          "size": 37849692
+        },
+        {
+          "version": "0.2.8 (Full)",
+          "date": "2026-06-15",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.8\r\n\r\nThis release is slightly different from the upstream **Nuvio v0.2.8** because the changes in the App.kt makes Nuvio cashed on iOS and I have to make adjustment.\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plu",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.8/Nuvio-v0.2.8-Full.ipa",
+          "size": 37849749
+        },
+        {
           "version": "0.2.5 (Full)",
           "date": "2026-06-11",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.5\r\n\r\nThis release is synchronized with the upstream **Nuvio v0.2.5**. For full details on the base changes, please refer to the [original NuvioMobile release notes](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.5).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant i",
