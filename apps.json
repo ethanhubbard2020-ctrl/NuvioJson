@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.9 (Full)",
+          "date": "2026-06-19",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.9\r\n\r\nThis release is based on the upstream **Nuvio v0.2.9**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.9).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins a",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.9/Nuvio-v0.2.9-Full.ipa",
+          "size": 38475418
+        },
+        {
           "version": "0.2.8 (Full)",
           "date": "2026-06-15",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.8\r\n\r\nThis release is slightly different from the upstream **Nuvio v0.2.8** because the changes in the App.kt makes Nuvio cashed on iOS and I have to make adjustment.\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plu",
