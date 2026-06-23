@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.12 (Full)",
+          "date": "2026-06-23",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.12\r\n\r\nThis release is based on the upstream **Nuvio v0.2.12**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.12).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Enhanced.ipa",
+          "size": 38539669
+        },
+        {
+          "version": "0.2.12 (Full)",
+          "date": "2026-06-23",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.12\r\n\r\nThis release is based on the upstream **Nuvio v0.2.12**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.12).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Full.ipa",
+          "size": 38346885
+        },
+        {
           "version": "0.2.11 (Full)",
           "date": "2026-06-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.11\r\n\r\nThis release is based on the upstream **Nuvio v0.2.11**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.11).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
