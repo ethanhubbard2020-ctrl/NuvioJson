@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.13(2) (Full)",
+          "date": "2026-06-26",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.13(2)\r\n\r\n---\r\n\r\n# Added Stream Quality Chooser for HLS Playback in Enhanced Version\r\n\r\n<img width=\"1266\" height=\"585\" alt=\"IMG_2547\" src=\"https://github.com/user-attachments/assets/30a4ebfe-dde4-4d7d-967b-2c94eaf45d97\" />\r\n\r\nhttps://github.com/user-attachments/assets/297b8535-e07c-4",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.13%282%29/Nuvio-v0.2.13-Enhanced.ipa",
+          "size": 38788200
+        },
+        {
           "version": "0.2.13 (Full)",
           "date": "2026-06-25",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.13\r\n\r\nThis release is based on the upstream **Nuvio v0.2.13**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.13).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
