@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.16-Hotfix (Full)",
+          "date": "2026-07-02",
+          "localizedDescription": "# 0.2.16-Hotfix\r\n\r\nThis hotfix resolves a regression introduced by the latest upstream update that prevented users from signing in.\r\n* Fixed a login issue where authentication requests were incorrectly sent to `https://localhost`, preventing sign-in on Android and iOS.\r\n* Restored proper Supabase ru",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.16-Hotfix/Nuvio-v0.2.16-Enhanced.ipa",
+          "size": 39477808
+        },
+        {
+          "version": "0.2.16-Hotfix (Full)",
+          "date": "2026-07-02",
+          "localizedDescription": "# 0.2.16-Hotfix\r\n\r\nThis hotfix resolves a regression introduced by the latest upstream update that prevented users from signing in.\r\n* Fixed a login issue where authentication requests were incorrectly sent to `https://localhost`, preventing sign-in on Android and iOS.\r\n* Restored proper Supabase ru",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.16-Hotfix/Nuvio-v0.2.16-Full.ipa",
+          "size": 38842455
+        },
+        {
           "version": "0.2.16 (Full)",
           "date": "2026-07-02",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.16\r\n\r\nThis release is based on the upstream **Nuvio v0.2.16**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.16).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
