@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.17 (Full)",
+          "date": "2026-07-03",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.17\r\n\r\nThis release is based on the upstream **Nuvio v0.2.17**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.17).\r\n\r\n---\r\n\r\n# Note\r\n### This update no longer uses the legacy Supabase key. You'll be switched to local account and need t",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.17/Nuvio-v0.2.17-Enhanced.ipa",
+          "size": 39732829
+        },
+        {
+          "version": "0.2.17 (Full)",
+          "date": "2026-07-03",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.17\r\n\r\nThis release is based on the upstream **Nuvio v0.2.17**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.17).\r\n\r\n---\r\n\r\n# Note\r\n### This update no longer uses the legacy Supabase key. You'll be switched to local account and need t",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.17/Nuvio-v0.2.17-Full.ipa",
+          "size": 39093830
+        },
+        {
           "version": "0.2.16-Hotfix (Full)",
           "date": "2026-07-02",
           "localizedDescription": "# 0.2.16-Hotfix\r\n\r\nThis hotfix resolves a regression introduced by the latest upstream update that prevented users from signing in.\r\n* Fixed a login issue where authentication requests were incorrectly sent to `https://localhost`, preventing sign-in on Android and iOS.\r\n* Restored proper Supabase ru",
