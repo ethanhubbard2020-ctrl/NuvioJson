@@ -21,7 +21,7 @@
           "date": "2026-07-16",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-h",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.25/Nuvio-v0.2.25-Enhanced.ipa",
-          "size": 42250877
+          "size": 42249829
         },
         {
           "version": "0.2.25 (Full)",
