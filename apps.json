@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.3.0 (Full)",
+          "date": "2026-07-18",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles t",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Enhanced.ipa",
+          "size": 42353893
+        },
+        {
+          "version": "0.3.0 (Full)",
+          "date": "2026-07-18",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles t",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Full.ipa",
+          "size": 41659415
+        },
+        {
           "version": "0.2.25 (Full)",
           "date": "2026-07-16",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-h",
@@ -372,13 +386,6 @@
           "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.20",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.20/Nuvio-v0.1.20-Full.ipa",
           "size": 37119803
-        },
-        {
-          "version": "0.1.19 (Full)",
-          "date": "2026-05-13",
-          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.19",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.19/Nuvio-v0.1.19-Full.ipa",
-          "size": 35545711
         }
       ]
     }
