@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.3.2 (Full)",
+          "date": "2026-07-27",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapfra",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.2/Nuvio-v0.3.2-Enhanced.ipa",
+          "size": 46590269
+        },
+        {
+          "version": "0.3.2 (Full)",
+          "date": "2026-07-27",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapfra",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.2/Nuvio-v0.3.2-Full.ipa",
+          "size": 45718530
+        },
+        {
           "version": "0.3.1 (Full)",
           "date": "2026-07-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section heading",
@@ -386,13 +400,6 @@
           "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.22",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.22/Nuvio-v0.1.22-Full.ipa",
           "size": 37574351
-        },
-        {
-          "version": "0.1.21 (Full)",
-          "date": "2026-05-17",
-          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.21",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.21/Nuvio-v0.1.21-Full.ipa",
-          "size": 35856067
         }
       ]
     }
