@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.0 (Full)",
+          "date": "2026-08-02",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.0/Nuvio-v0.4.0-Enhanced.ipa",
+          "size": 47078757
+        },
+        {
+          "version": "0.4.0 (Full)",
+          "date": "2026-08-02",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.0/Nuvio-v0.4.0-Full.ipa",
+          "size": 46190861
+        },
+        {
           "version": "0.3.2 (Full)",
           "date": "2026-07-27",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapfra",
@@ -393,13 +407,6 @@
           "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.23",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.23/Nuvio-v0.1.23-Full.ipa",
           "size": 36290838
-        },
-        {
-          "version": "0.1.22 (Full)",
-          "date": "2026-05-20",
-          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.22",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.22/Nuvio-v0.1.22-Full.ipa",
-          "size": 37574351
         }
       ]
     }
