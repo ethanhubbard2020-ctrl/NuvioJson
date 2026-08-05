@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.2 (Full)",
+          "date": "2026-08-05",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for s",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.2/Nuvio-v0.4.2-Enhanced.ipa",
+          "size": 49203162
+        },
+        {
+          "version": "0.4.2 (Full)",
+          "date": "2026-08-05",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for s",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.2/Nuvio-v0.4.2-Full.ipa",
+          "size": 48227689
+        },
+        {
           "version": "0.4.1 (Full)",
           "date": "2026-08-03",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n",
@@ -400,13 +414,6 @@
           "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.24",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.24/Nuvio-v0.1.24-Full.ipa",
           "size": 36631118
-        },
-        {
-          "version": "0.1.24-Enhanced (Full)",
-          "date": "2026-05-24",
-          "localizedDescription": "This release is based on Nuvio v0.1.24 with added unmerged PR and features on the official release, such as:\r\n- updated Indonesian localization\r\n- scrollable language selection\r\n- relocated Trakt into Integrations Setting\r\n- Top10 Catalogs Home\r\n- LiveTV integrations",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.24-Enhanced/Nuvio-v0.1.24-Enhanced.ipa",
-          "size": 36842805
         }
       ]
     }
