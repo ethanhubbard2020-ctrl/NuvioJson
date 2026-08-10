@@ -20,6 +20,13 @@
           "version": "0.4.3 (Full)",
           "date": "2026-08-10",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync p",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.3/Nuvio-v0.4.3-Enhanced.ipa",
+          "size": 49325934
+        },
+        {
+          "version": "0.4.3 (Full)",
+          "date": "2026-08-10",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync p",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.3/Nuvio-v0.4.3-Full.ipa",
           "size": 48278846
         },
