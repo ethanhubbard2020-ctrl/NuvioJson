@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.3 (Full)",
+          "date": "2026-08-10",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync p",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.3/Nuvio-v0.4.3-Full.ipa",
+          "size": 48278846
+        },
+        {
           "version": "0.4.2 (Full)",
           "date": "2026-08-05",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for s",
@@ -400,20 +407,6 @@
           "localizedDescription": "This release is based on Nuvio v0.1.25 with added unmerged PR and features on the official release, such as:\r\n- updated Indonesian localization\r\n- scrollable language selection\r\n- relocated Trakt into Integrations Setting\r\n- LiveTV integrations\r\n- animated GIF avatar support for iOS\r\n- change \"Play\"",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.25-Enhanced/Nuvio-v0.1.25-Enhanced.ipa",
           "size": 36978873
-        },
-        {
-          "version": "0.1.24 (AppStore)",
-          "date": "2026-05-23",
-          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.24",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.24/Nuvio-v0.1.24-AppStore.ipa",
-          "size": 35420310
-        },
-        {
-          "version": "0.1.24 (Full)",
-          "date": "2026-05-23",
-          "localizedDescription": "See the original repo release notes for more details\r\nhttps://github.com/NuvioMedia/NuvioMobile/releases/tag/0.1.24",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.1.24/Nuvio-v0.1.24-Full.ipa",
-          "size": 36631118
         }
       ]
     }
