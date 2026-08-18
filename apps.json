@@ -21,7 +21,7 @@
           "date": "2026-08-18",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgari",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Enhanced.ipa",
-          "size": 63209389
+          "size": 63209183
         },
         {
           "version": "0.4.6 (Full)",
