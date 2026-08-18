@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.6 (Full)",
+          "date": "2026-08-18",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgari",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Enhanced.ipa",
+          "size": 63209389
+        },
+        {
+          "version": "0.4.6 (Full)",
+          "date": "2026-08-18",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgari",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Full.ipa",
+          "size": 48558581
+        },
+        {
           "version": "0.4.5 (Full)",
           "date": "2026-08-13",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Varia",
@@ -414,13 +428,6 @@
           "localizedDescription": "This release is based on Nuvio hotfix update v0.2.3 with added unsubmitted test-features, such as:\r\n- feat: relocated Trakt into Integrations Setting\r\n- feat: LiveTV integrations\r\n- feat: change \"Play\" to \"Watch Again\" button for watched movies\r\n- feat: implementation of Picture-in-Picture in iOS\r\n-",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.3-Enhanced/Nuvio-v0.2.3-Enhanced.ipa",
           "size": 37988256
-        },
-        {
-          "version": "0.2.1-Enhanced (Full)",
-          "date": "2026-06-02",
-          "localizedDescription": "This release is based on Nuvio major update v0.2.1 with added unmerged PR and features on the official release, such as:\r\n- ~scrollable language selection~ (merged)\r\n- relocated Trakt into Integrations Setting\r\n- LiveTV integrations\r\n- ~animated GIF avatar support for iOS~ (merged)\r\n- change \"Play\" ",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.1-Enhanced/Nuvio-v0.2.1-Enhanced.ipa",
-          "size": 37518530
         }
       ]
     }
