@@ -17,6 +17,20 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.10 (Full)",
+          "date": "2026-08-24",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync):",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.10/Nuvio-v0.4.10-Enhanced.ipa",
+          "size": 63711565
+        },
+        {
+          "version": "0.4.10 (Full)",
+          "date": "2026-08-24",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync):",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.10/Nuvio-v0.4.10-Full.ipa",
+          "size": 49044145
+        },
+        {
           "version": "0.4.8 (Full)",
           "date": "2026-08-23",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading scree",
@@ -421,20 +435,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.2.8\r\n\r\nThis release is slightly different from the upstream **Nuvio v0.2.8** because the changes in the App.kt makes Nuvio cashed on iOS and I have to make adjustment.\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plu",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.8/Nuvio-v0.2.8-Full.ipa",
           "size": 37849749
-        },
-        {
-          "version": "0.2.5 (Full)",
-          "date": "2026-06-11",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.5\r\n\r\nThis release is synchronized with the upstream **Nuvio v0.2.5**. For full details on the base changes, please refer to the [original NuvioMobile release notes](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.5).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant i",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.5/Nuvio-v0.2.5-Enhanced.ipa",
-          "size": 37946802
-        },
-        {
-          "version": "0.2.5 (Full)",
-          "date": "2026-06-11",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.5\r\n\r\nThis release is synchronized with the upstream **Nuvio v0.2.5**. For full details on the base changes, please refer to the [original NuvioMobile release notes](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.5).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant i",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.5/Nuvio-v0.2.5-Full.ipa",
-          "size": 37947985
         }
       ]
     }
