@@ -20,413 +20,413 @@
           "version": "0.4.11 (Full)",
           "date": "2026-08-26",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.11\r\n\r\n## Note: I won't build Full version anymore because it's now officially released [here](https://github.com/NuvioMedia/NuvioMobile/releases).\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Up",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.11/Nuvio-v0.4.11-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.11/Nuvio-v0.4.11-Enhanced.ipa",
           "size": 66340072
         },
         {
           "version": "0.4.10 (Full)",
           "date": "2026-08-24",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync):",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.10/Nuvio-v0.4.10-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.10/Nuvio-v0.4.10-Enhanced.ipa",
           "size": 63711565
         },
         {
           "version": "0.4.10 (Full)",
           "date": "2026-08-24",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync):",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.10/Nuvio-v0.4.10-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.10/Nuvio-v0.4.10-Full.ipa",
           "size": 49044145
         },
         {
           "version": "0.4.8 (Full)",
           "date": "2026-08-23",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading scree",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.8/Nuvio-v0.4.8-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.8/Nuvio-v0.4.8-Enhanced.ipa",
           "size": 63647734
         },
         {
           "version": "0.4.8 (Full)",
           "date": "2026-08-23",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading scree",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.8/Nuvio-v0.4.8-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.8/Nuvio-v0.4.8-Full.ipa",
           "size": 48978402
         },
         {
           "version": "0.4.7 (Full)",
           "date": "2026-08-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.7\r\n\r\n## Upstream changelog:\r\n- feat: v1 for supporter perks @tapframe\r\n- Align SDH filtering with MPV @haaihond\r\n- Harden SDH subtitle filtering @haaihond\r\n- Clean up SDH subtitle stripping changes @haaihond\r\n- Add SDH subtitle stripping @haaihond\r\n\r\n## Enhanced changelog:\r\n- All ch",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.7/Nuvio-v0.4.7-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.7/Nuvio-v0.4.7-Enhanced.ipa",
           "size": 63572676
         },
         {
           "version": "0.4.7 (Full)",
           "date": "2026-08-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.7\r\n\r\n## Upstream changelog:\r\n- feat: v1 for supporter perks @tapframe\r\n- Align SDH filtering with MPV @haaihond\r\n- Harden SDH subtitle filtering @haaihond\r\n- Clean up SDH subtitle stripping changes @haaihond\r\n- Add SDH subtitle stripping @haaihond\r\n\r\n## Enhanced changelog:\r\n- All ch",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.7/Nuvio-v0.4.7-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.7/Nuvio-v0.4.7-Full.ipa",
           "size": 48902774
         },
         {
           "version": "0.4.6 (Full)",
           "date": "2026-08-18",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgari",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.6/Nuvio-v0.4.6-Enhanced.ipa",
           "size": 63209183
         },
         {
           "version": "0.4.6 (Full)",
           "date": "2026-08-18",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgari",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.6/Nuvio-v0.4.6-Full.ipa",
           "size": 48558581
         },
         {
           "version": "0.4.5 (Full)",
           "date": "2026-08-13",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Varia",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.5/Nuvio-v0.4.5-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.5/Nuvio-v0.4.5-Enhanced.ipa",
           "size": 49333635
         },
         {
           "version": "0.4.5 (Full)",
           "date": "2026-08-13",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Varia",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.5/Nuvio-v0.4.5-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.5/Nuvio-v0.4.5-Full.ipa",
           "size": 48321307
         },
         {
           "version": "0.4.4 (Full)",
           "date": "2026-08-10",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.4\r\n\r\n## Upstream changelog:\r\n- fix(NUVIO-MOBILE-WZ): compact watched persistence to prevent OOM @tapframe\r\n- feat(collections): add TMDB Discover exclusion filters @tapframe\r\n- Fix watched badge memory leak @skoruppa\r\n- Simkl should not provide FullyWatchedSeriesKeys @skoruppa\r\n- fe",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.4/Nuvio-v0.4.4-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.4/Nuvio-v0.4.4-Enhanced.ipa",
           "size": 49330552
         },
         {
           "version": "0.4.4 (Full)",
           "date": "2026-08-10",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.4\r\n\r\n## Upstream changelog:\r\n- fix(NUVIO-MOBILE-WZ): compact watched persistence to prevent OOM @tapframe\r\n- feat(collections): add TMDB Discover exclusion filters @tapframe\r\n- Fix watched badge memory leak @skoruppa\r\n- Simkl should not provide FullyWatchedSeriesKeys @skoruppa\r\n- fe",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.4/Nuvio-v0.4.4-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.4/Nuvio-v0.4.4-Full.ipa",
           "size": 48321016
         },
         {
           "version": "0.4.3 (Full)",
           "date": "2026-08-10",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync p",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.3/Nuvio-v0.4.3-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.3/Nuvio-v0.4.3-Enhanced.ipa",
           "size": 49325934
         },
         {
           "version": "0.4.3 (Full)",
           "date": "2026-08-10",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync p",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.3/Nuvio-v0.4.3-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.3/Nuvio-v0.4.3-Full.ipa",
           "size": 48278846
         },
         {
           "version": "0.4.2 (Full)",
           "date": "2026-08-05",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for s",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.2/Nuvio-v0.4.2-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.2/Nuvio-v0.4.2-Enhanced.ipa",
           "size": 49203162
         },
         {
           "version": "0.4.2 (Full)",
           "date": "2026-08-05",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for s",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.2/Nuvio-v0.4.2-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.2/Nuvio-v0.4.2-Full.ipa",
           "size": 48227689
         },
         {
           "version": "0.4.1 (Full)",
           "date": "2026-08-03",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.1/Nuvio-v0.4.1-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.1/Nuvio-v0.4.1-Enhanced.ipa",
           "size": 49115574
         },
         {
           "version": "0.4.1 (Full)",
           "date": "2026-08-03",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.1/Nuvio-v0.4.1-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.1/Nuvio-v0.4.1-Full.ipa",
           "size": 48167572
         },
         {
           "version": "0.4.0 (Full)",
           "date": "2026-08-02",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.0/Nuvio-v0.4.0-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.0/Nuvio-v0.4.0-Enhanced.ipa",
           "size": 47078757
         },
         {
           "version": "0.4.0 (Full)",
           "date": "2026-08-02",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.0/Nuvio-v0.4.0-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.0/Nuvio-v0.4.0-Full.ipa",
           "size": 46190861
         },
         {
           "version": "0.3.2 (Full)",
           "date": "2026-07-27",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapfra",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.2/Nuvio-v0.3.2-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.3.2/Nuvio-v0.3.2-Enhanced.ipa",
           "size": 46590269
         },
         {
           "version": "0.3.2 (Full)",
           "date": "2026-07-27",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapfra",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.2/Nuvio-v0.3.2-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.3.2/Nuvio-v0.3.2-Full.ipa",
           "size": 45718530
         },
         {
           "version": "0.3.1 (Full)",
           "date": "2026-07-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section heading",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.3.1/Nuvio-v0.3.1-Enhanced.ipa",
           "size": 46410677
         },
         {
           "version": "0.3.1 (Full)",
           "date": "2026-07-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section heading",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.3.1/Nuvio-v0.3.1-Full.ipa",
           "size": 45708628
         },
         {
           "version": "0.3.0 (Full)",
           "date": "2026-07-18",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles t",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.3.0/Nuvio-v0.3.0-Enhanced.ipa",
           "size": 42353893
         },
         {
           "version": "0.3.0 (Full)",
           "date": "2026-07-18",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles t",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.3.0/Nuvio-v0.3.0-Full.ipa",
           "size": 41659415
         },
         {
           "version": "0.2.25 (Full)",
           "date": "2026-07-16",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-h",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.25/Nuvio-v0.2.25-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.25/Nuvio-v0.2.25-Enhanced.ipa",
           "size": 42249829
         },
         {
           "version": "0.2.25 (Full)",
           "date": "2026-07-16",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-h",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.25/Nuvio-v0.2.25-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.25/Nuvio-v0.2.25-Full.ipa",
           "size": 41564314
         },
         {
           "version": "0.2.24 (Full)",
           "date": "2026-07-15",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.24/Nuvio-v0.2.24-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.24/Nuvio-v0.2.24-Enhanced.ipa",
           "size": 42209015
         },
         {
           "version": "0.2.24 (Full)",
           "date": "2026-07-15",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.24/Nuvio-v0.2.24-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.24/Nuvio-v0.2.24-Full.ipa",
           "size": 41542304
         },
         {
           "version": "0.2.23 (Full)",
           "date": "2026-07-13",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.23/Nuvio-v0.2.23-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.23/Nuvio-v0.2.23-Enhanced.ipa",
           "size": 42148349
         },
         {
           "version": "0.2.23 (Full)",
           "date": "2026-07-13",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.23/Nuvio-v0.2.23-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.23/Nuvio-v0.2.23-Full.ipa",
           "size": 41466558
         },
         {
           "version": "0.2.22 (Full)",
           "date": "2026-07-11",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.22/Nuvio-v0.2.22-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.22/Nuvio-v0.2.22-Enhanced.ipa",
           "size": 42082309
         },
         {
           "version": "0.2.22 (Full)",
           "date": "2026-07-11",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.22/Nuvio-v0.2.22-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.22/Nuvio-v0.2.22-Full.ipa",
           "size": 41396608
         },
         {
           "version": "0.2.21 (Full)",
           "date": "2026-07-09",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.21\r\n\r\nThis release is based on the upstream **Nuvio v0.2.21**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.21).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.21/Nuvio-v0.2.21-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.21/Nuvio-v0.2.21-Enhanced.ipa",
           "size": 41599321
         },
         {
           "version": "0.2.21 (Full)",
           "date": "2026-07-09",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.21\r\n\r\nThis release is based on the upstream **Nuvio v0.2.21**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.21).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.21/Nuvio-v0.2.21-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.21/Nuvio-v0.2.21-Full.ipa",
           "size": 40911351
         },
         {
           "version": "0.2.20 (Full)",
           "date": "2026-07-09",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.20\r\n\r\nThis release is based on the upstream **Nuvio v0.2.20**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.20).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.20/Nuvio-v0.2.20-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.20/Nuvio-v0.2.20-Enhanced.ipa",
           "size": 41564728
         },
         {
           "version": "0.2.20 (Full)",
           "date": "2026-07-09",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.20\r\n\r\nThis release is based on the upstream **Nuvio v0.2.20**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.20).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.20/Nuvio-v0.2.20-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.20/Nuvio-v0.2.20-Full.ipa",
           "size": 40869463
         },
         {
           "version": "0.2.19 (Full)",
           "date": "2026-07-06",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.19\r\n\r\nThis release is based on the upstream **Nuvio v0.2.19**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.19).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.19/Nuvio-v0.2.19-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.19/Nuvio-v0.2.19-Enhanced.ipa",
           "size": 39902076
         },
         {
           "version": "0.2.19 (Full)",
           "date": "2026-07-06",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.19\r\n\r\nThis release is based on the upstream **Nuvio v0.2.19**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.19).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.19/Nuvio-v0.2.19-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.19/Nuvio-v0.2.19-Full.ipa",
           "size": 39276321
         },
         {
           "version": "0.2.18 (Full)",
           "date": "2026-07-04",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.18\r\n\r\nThis release is based on the upstream **Nuvio v0.2.18**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.18).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.18/Nuvio-v0.2.18-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.18/Nuvio-v0.2.18-Enhanced.ipa",
           "size": 39797181
         },
         {
           "version": "0.2.18 (Full)",
           "date": "2026-07-04",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.18\r\n\r\nThis release is based on the upstream **Nuvio v0.2.18**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.18).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.18/Nuvio-v0.2.18-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.18/Nuvio-v0.2.18-Full.ipa",
           "size": 39152131
         },
         {
           "version": "0.2.17 (Full)",
           "date": "2026-07-03",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.17\r\n\r\nThis release is based on the upstream **Nuvio v0.2.17**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.17).\r\n\r\n---\r\n\r\n# Note\r\n### This update no longer uses the legacy Supabase key. You'll be switched to local account and need t",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.17/Nuvio-v0.2.17-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.17/Nuvio-v0.2.17-Enhanced.ipa",
           "size": 39732829
         },
         {
           "version": "0.2.17 (Full)",
           "date": "2026-07-03",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.17\r\n\r\nThis release is based on the upstream **Nuvio v0.2.17**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.17).\r\n\r\n---\r\n\r\n# Note\r\n### This update no longer uses the legacy Supabase key. You'll be switched to local account and need t",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.17/Nuvio-v0.2.17-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.17/Nuvio-v0.2.17-Full.ipa",
           "size": 39093830
         },
         {
           "version": "0.2.16-Hotfix (Full)",
           "date": "2026-07-02",
           "localizedDescription": "# 0.2.16-Hotfix\r\n\r\nThis hotfix resolves a regression introduced by the latest upstream update that prevented users from signing in.\r\n* Fixed a login issue where authentication requests were incorrectly sent to `https://localhost`, preventing sign-in on Android and iOS.\r\n* Restored proper Supabase ru",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.16-Hotfix/Nuvio-v0.2.16-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.16-Hotfix/Nuvio-v0.2.16-Enhanced.ipa",
           "size": 39477808
         },
         {
           "version": "0.2.16-Hotfix (Full)",
           "date": "2026-07-02",
           "localizedDescription": "# 0.2.16-Hotfix\r\n\r\nThis hotfix resolves a regression introduced by the latest upstream update that prevented users from signing in.\r\n* Fixed a login issue where authentication requests were incorrectly sent to `https://localhost`, preventing sign-in on Android and iOS.\r\n* Restored proper Supabase ru",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.16-Hotfix/Nuvio-v0.2.16-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.16-Hotfix/Nuvio-v0.2.16-Full.ipa",
           "size": 38842455
         },
         {
           "version": "0.2.16 (Full)",
           "date": "2026-07-02",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.16\r\n\r\nThis release is based on the upstream **Nuvio v0.2.16**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.16).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.16/Nuvio-v0.2.16-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.16/Nuvio-v0.2.16-Enhanced.ipa",
           "size": 39478109
         },
         {
           "version": "0.2.16 (Full)",
           "date": "2026-07-02",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.16\r\n\r\nThis release is based on the upstream **Nuvio v0.2.16**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.16).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.16/Nuvio-v0.2.16-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.16/Nuvio-v0.2.16-Full.ipa",
           "size": 38844733
         },
         {
           "version": "0.2.14 (Full)",
           "date": "2026-06-28",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.14\r\n\r\nThis release is based on the upstream **Nuvio v0.2.14**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.14).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.14/Nuvio-v0.2.14-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.14/Nuvio-v0.2.14-Enhanced.ipa",
           "size": 39158528
         },
         {
           "version": "0.2.14 (Full)",
           "date": "2026-06-28",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.14\r\n\r\nThis release is based on the upstream **Nuvio v0.2.14**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.14).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.14/Nuvio-v0.2.14-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.14/Nuvio-v0.2.14-Full.ipa",
           "size": 38756816
         },
         {
           "version": "0.2.13 (Full)",
           "date": "2026-06-25",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.13\r\n\r\nThis release is based on the upstream **Nuvio v0.2.13**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.13).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.13/Nuvio-v0.2.13-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.13/Nuvio-v0.2.13-Enhanced.ipa",
           "size": 38743467
         },
         {
           "version": "0.2.13 (Full)",
           "date": "2026-06-25",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.13\r\n\r\nThis release is based on the upstream **Nuvio v0.2.13**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.13).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.13/Nuvio-v0.2.13-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.13/Nuvio-v0.2.13-Full.ipa",
           "size": 38416902
         },
         {
           "version": "0.2.12 (Full)",
           "date": "2026-06-23",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.12\r\n\r\nThis release is based on the upstream **Nuvio v0.2.12**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.12).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.12/Nuvio-v0.2.12-Enhanced.ipa",
           "size": 38539669
         },
         {
           "version": "0.2.12 (Full)",
           "date": "2026-06-23",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.12\r\n\r\nThis release is based on the upstream **Nuvio v0.2.12**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.12).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.12/Nuvio-v0.2.12-Full.ipa",
           "size": 38346885
         },
         {
           "version": "0.2.11 (Full)",
           "date": "2026-06-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.11\r\n\r\nThis release is based on the upstream **Nuvio v0.2.11**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.11).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.11/Nuvio-v0.2.11-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.11/Nuvio-v0.2.11-Enhanced.ipa",
           "size": 38619614
         },
         {
           "version": "0.2.11 (Full)",
           "date": "2026-06-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.11\r\n\r\nThis release is based on the upstream **Nuvio v0.2.11**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.11).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.11/Nuvio-v0.2.11-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.11/Nuvio-v0.2.11-Full.ipa",
           "size": 38516764
         },
         {
           "version": "0.2.9 (Full)",
           "date": "2026-06-19",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.9\r\n\r\nThis release is based on the upstream **Nuvio v0.2.9**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.9).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins a",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.9/Nuvio-v0.2.9-Enhanced.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.9/Nuvio-v0.2.9-Enhanced.ipa",
           "size": 38532842
         },
         {
           "version": "0.2.9 (Full)",
           "date": "2026-06-19",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.9\r\n\r\nThis release is based on the upstream **Nuvio v0.2.9**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.9).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins a",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.9/Nuvio-v0.2.9-Full.ipa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.9/Nuvio-v0.2.9-Full.ipa",
           "size": 38475418
         }
       ]
