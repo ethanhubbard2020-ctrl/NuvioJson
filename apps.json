@@ -21,7 +21,7 @@
           "date": "2026-08-29",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.12\r\n\r\n## Note: Update AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- fix(tmdb): use multiplatform map insertion @tapframe\r\n- feat(store): automate sideload source updates @tap",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.12/Nuvio-v0.4.12-Enhanced.ipa",
-          "size": 66519572
+          "size": 66526080
         },
         {
           "version": "0.4.11 (Full)",
