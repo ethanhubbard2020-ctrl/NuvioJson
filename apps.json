@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.14 (Full)",
+          "date": "2026-09-05",
+          "localizedDescription": "## Upstream changelog:\r\n- fix(player): original audio language preference @tapframe\r\n- fix(player): allow minimum device brightness @tapframe\r\n- use Android User-Agent so IPTV DASH streams do not 403 (#1863) @halibiram\r\n- feat: updated Spanish string resource file for application localization (#1861",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.14/Nuvio-v0.4.14-Enhanced.ipa",
+          "size": 66761280
+        },
+        {
           "version": "0.4.13 (Full)",
           "date": "2026-08-30",
           "localizedDescription": "## AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- feat(details): parse addon certifications @tapframe\r\n- fix(details): parse addon season posters @tapframe\r\n- fix(ui): handle delayed addon con",
@@ -400,20 +407,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.2.13\r\n\r\nThis release is based on the upstream **Nuvio v0.2.13**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.13).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.13/Nuvio-v0.2.13-Full.ipa",
           "size": 38416902
-        },
-        {
-          "version": "0.2.12 (Full)",
-          "date": "2026-06-23",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.12\r\n\r\nThis release is based on the upstream **Nuvio v0.2.12**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.12).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.12/Nuvio-v0.2.12-Enhanced.ipa",
-          "size": 38539669
-        },
-        {
-          "version": "0.2.12 (Full)",
-          "date": "2026-06-23",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.12\r\n\r\nThis release is based on the upstream **Nuvio v0.2.12**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.12).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.12/Nuvio-v0.2.12-Full.ipa",
-          "size": 38346885
         }
       ]
     }
