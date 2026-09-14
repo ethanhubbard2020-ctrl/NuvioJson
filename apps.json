@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.20 (Full)",
+          "date": "2026-09-14",
+          "localizedDescription": "- feat(streams): add mobile background selection @tapframe\r\n- fix(player): center loading title and logo @tapframe\r\n- feat(player): dismiss next episode prompt with a right swipe @tapframe\r\n- fix(details): match toggle styles and remove duplicate season headings @tapframe\r\n- fix(library): sync title",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.20/Nuvio-v0.4.20-Enhanced.ipa",
+          "size": 66202899
+        },
+        {
           "version": "0.4.19 (Full)",
           "date": "2026-09-14",
           "localizedDescription": "- fix(profiles): stabilize popup size transitions @tapframe\r\n- fix(details): apply poster radius to episode list cards @tapframe\r\n- fix(home): apply poster settings to continue watching cards @tapframe\r\n- fix(streams): position sources panel below ios toolbar @tapframe\r\n- fix(navigation): preserve t",
@@ -365,20 +372,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.2.18\r\n\r\nThis release is based on the upstream **Nuvio v0.2.18**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.18).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.18/Nuvio-v0.2.18-Enhanced.ipa",
           "size": 39797181
-        },
-        {
-          "version": "0.2.17 (Full)",
-          "date": "2026-07-03",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.17\r\n\r\nThis release is based on the upstream **Nuvio v0.2.17**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.17).\r\n\r\n---\r\n\r\n# Note\r\n### This update no longer uses the legacy Supabase key. You'll be switched to local account and need t",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.17/Nuvio-v0.2.17-Full.ipa",
-          "size": 39093830
-        },
-        {
-          "version": "0.2.17 (Full)",
-          "date": "2026-07-03",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.17\r\n\r\nThis release is based on the upstream **Nuvio v0.2.17**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.17).\r\n\r\n---\r\n\r\n# Note\r\n### This update no longer uses the legacy Supabase key. You'll be switched to local account and need t",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.17/Nuvio-v0.2.17-Enhanced.ipa",
-          "size": 39732829
         }
       ]
     }
