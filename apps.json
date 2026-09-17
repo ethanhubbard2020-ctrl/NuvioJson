@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.23-beta (Full)",
+          "date": "2026-09-17",
+          "localizedDescription": "- fix(simkl): retain posters when marking items watched @tapframe\r\n- fix(home): restore wide continue watching sizing @tapframe\r\n- i18n(vi): update latest Vietnamese strings (#1975) @blueocean2308\r\n- fix(ui): use filled chips and consistent surface colors @tapframe\r\n- feat(playback): support IntroDB",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.23-beta/Nuvio-v0.4.23-Enhanced.ipa",
+          "size": 66509993
+        },
+        {
           "version": "0.4.22 (Full)",
           "date": "2026-09-17",
           "localizedDescription": "- feat(updater): add stable and beta update channels @tapframe\r\n- feat(tmdb): add personal API key override with credential sync @tapframe\r\n- feat(details): parse addon episode runtimes @tapframe\r\n- Use addon imdb_id as fallback for non-IMDB content enrichment (#1966) @skoruppa\r\n- fix(settings): kee",
@@ -344,20 +351,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.2.21\r\n\r\nThis release is based on the upstream **Nuvio v0.2.21**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.21).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.21/Nuvio-v0.2.21-Full.ipa",
           "size": 40911351
-        },
-        {
-          "version": "0.2.20 (Full)",
-          "date": "2026-07-09",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.20\r\n\r\nThis release is based on the upstream **Nuvio v0.2.20**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.20).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.20/Nuvio-v0.2.20-Full.ipa",
-          "size": 40869463
-        },
-        {
-          "version": "0.2.20 (Full)",
-          "date": "2026-07-09",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.20\r\n\r\nThis release is based on the upstream **Nuvio v0.2.20**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.20).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugin",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.20/Nuvio-v0.2.20-Enhanced.ipa",
-          "size": 41564728
         }
       ]
     }
