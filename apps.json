@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.26-beta (Full)",
+          "date": "2026-09-21",
+          "localizedDescription": "- fix(merge): keep source pinning in the shared provider filter row @luqmanfadlli\r\n- feat(downloads): show the download button by default @luqmanfadlli\r\n- fix(navigation): keep the iPad floating bar on the tab that is showing @luqmanfadlli\r\n- feat(navigation): bring the jelly floating nav bar to iPa",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.26-beta/Nuvio-0.4.26-Enhanced.ipa",
+          "size": 67100856
+        },
+        {
           "version": "0.4.25-beta (Full)",
           "date": "2026-09-19",
           "localizedDescription": "- fix(details): keep the hero blend layer below the content @luqmanfadlli\r\n- feat(player): show seek, volume, and brightness values in the new layout @luqmanfadlli\r\n- fix(home): prevent hero flash when cycling @tapframe\r\n- i18n(el): translate new 0.4.24 strings and refresh stale ones @nosvasedis\r\n- ",
@@ -323,20 +330,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.24/Nuvio-v0.2.24-Enhanced.ipa",
           "size": 42209015
-        },
-        {
-          "version": "0.2.23 (Full)",
-          "date": "2026-07-13",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.23/Nuvio-v0.2.23-Full.ipa",
-          "size": 41466558
-        },
-        {
-          "version": "0.2.23 (Full)",
-          "date": "2026-07-13",
-          "localizedDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.2.23/Nuvio-v0.2.23-Enhanced.ipa",
-          "size": 42148349
         }
       ]
     }
