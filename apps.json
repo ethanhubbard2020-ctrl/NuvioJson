@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.5.4-beta (Full)",
+          "date": "2026-09-28",
+          "localizedDescription": "- fix(player): ignore short clips for tracking @tapframe\r\n- fix(ios): update quickjs to 1.0.15 @tapframe\r\n- feat(ratings): star rating row under details actions, fit icon row, episode badge @luqmanfadlli\r\n- fix(player): reduce buffer durations @tapframe\r\n- fix(details): keep custom posters when retu",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.5.4-beta/Nuvio-0.5.4-Enhanced.ipa",
+          "size": 68808545
+        },
+        {
           "version": "0.5.3-beta (Full)",
           "date": "2026-09-27",
           "localizedDescription": "- fix(ios): restore Now Playing controls by dropping mixWithOthers @luqmanfadlli\r\n- fix(home): use continue watching poster pattern @tapframe\r\n- fix(shuffle): open sheet at full height @tapframe\r\n- fix(details): move shuffle into actions menu @tapframe\r\n- feat(poster): support addon landscape poster",
@@ -288,20 +295,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.0/Nuvio-v0.4.0-Full.ipa",
           "size": 46190861
-        },
-        {
-          "version": "0.3.2 (Full)",
-          "date": "2026-07-27",
-          "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapfra",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.3.2/Nuvio-v0.3.2-Full.ipa",
-          "size": 45718530
-        },
-        {
-          "version": "0.3.2 (Full)",
-          "date": "2026-07-27",
-          "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapfra",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.3.2/Nuvio-v0.3.2-Enhanced.ipa",
-          "size": 46590269
         }
       ]
     }
