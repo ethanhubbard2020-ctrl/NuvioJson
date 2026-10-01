@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.5.5-beta (Full)",
+          "date": "2026-10-01",
+          "localizedDescription": "- feat(visualsubtitlesync) @chrisk325\r\n- feat(i18n): add Bengali (\u09ac\u09be\u0982\u09b2\u09be) language support and UI localization @TanvirSdq\r\n- i18n(el): translate new strings and finish the Greek wording sweep @nosvasedis\r\n- Fix clearlogo + backdrop @skoruppa\r\n- fix(profile): make Profile Insight consistent across dev",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.5.5-beta/Nuvio-0.5.5-Enhanced.ipa",
+          "size": 69276861
+        },
+        {
           "version": "0.5.4-beta (Full)",
           "date": "2026-09-28",
           "localizedDescription": "- fix(player): ignore short clips for tracking @tapframe\r\n- fix(ios): update quickjs to 1.0.15 @tapframe\r\n- feat(ratings): star rating row under details actions, fit icon row, episode badge @luqmanfadlli\r\n- fix(player): reduce buffer durations @tapframe\r\n- fix(details): keep custom posters when retu",
@@ -281,20 +288,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.1/Nuvio-v0.4.1-Enhanced.ipa",
           "size": 49115574
-        },
-        {
-          "version": "0.4.0 (Full)",
-          "date": "2026-08-02",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.0/Nuvio-v0.4.0-Enhanced.ipa",
-          "size": 47078757
-        },
-        {
-          "version": "0.4.0 (Full)",
-          "date": "2026-08-02",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.0/Nuvio-v0.4.0-Full.ipa",
-          "size": 46190861
         }
       ]
     }
