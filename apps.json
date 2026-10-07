@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.5.7-beta (Full)",
+          "date": "2026-10-07",
+          "localizedDescription": "- fix(buffer): make the java heap large @chrisk325\r\n- feat(player): make the movie recommendation card less intrusive @luqmanfadlli\r\n- feat(player): show buffered range on the seek bar @luqmanfadlli\r\n- fix(whats-new): show all releases on platforms without update channels @luqmanfadlli \r\n- feat: add",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.5.7-beta/Nuvio-0.5.7-Enhanced.ipa",
+          "size": 69669767
+        },
+        {
           "version": "0.5.6-beta (Full)",
           "date": "2026-10-03",
           "localizedDescription": "- fix(settings): restore missing isIos import in AppearanceSettingsPage @luqmanfadlli \r\n- feat(details): use desktop hero layout on tablets @tapframe\r\n- feat(settings): show restart prompt when layout direction changes @tapframe\r\n- fix(ios): declare supported localizations @tapframe\r\n- fix(player): ",
@@ -267,20 +274,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync p",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.3/Nuvio-v0.4.3-Enhanced.ipa",
           "size": 49325934
-        },
-        {
-          "version": "0.4.2 (Full)",
-          "date": "2026-08-05",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for s",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.2/Nuvio-v0.4.2-Full.ipa",
-          "size": 48227689
-        },
-        {
-          "version": "0.4.2 (Full)",
-          "date": "2026-08-05",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for s",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.2/Nuvio-v0.4.2-Enhanced.ipa",
-          "size": 49203162
         }
       ]
     }
