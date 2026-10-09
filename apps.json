@@ -20,8 +20,8 @@
           "version": "0.5.8-beta (Full)",
           "date": "2026-10-09",
           "localizedDescription": "- fix(player): hide upstream's Stream Info action in the new layout @luqmanfadlli \r\n- fix(player): keep controls visible while a finger rests on the seek bar @luqmanfadlli\r\n- fix(omdb): only call OMDb for episode ratings on the details page @luqmanfadlli\r\n- feat(player): pick playback speed instead ",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.5.8-beta/Nuvio-0.5.8-Enhanced.ipa",
-          "size": 70482935
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.5.8-beta/nuvio-0.5.8-enhanced.ipa",
+          "size": 70490675
         },
         {
           "version": "0.5.7-beta (Full)",
