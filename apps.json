@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.5.8-beta (Full)",
+          "date": "2026-10-09",
+          "localizedDescription": "- fix(player): hide upstream's Stream Info action in the new layout @luqmanfadlli \r\n- fix(player): keep controls visible while a finger rests on the seek bar @luqmanfadlli\r\n- fix(omdb): only call OMDb for episode ratings on the details page @luqmanfadlli\r\n- feat(player): pick playback speed instead ",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.5.8-beta/Nuvio-0.5.8-Enhanced.ipa",
+          "size": 70482935
+        },
+        {
           "version": "0.5.7-beta (Full)",
           "date": "2026-10-07",
           "localizedDescription": "- fix(buffer): make the java heap large @chrisk325\r\n- feat(player): make the movie recommendation card less intrusive @luqmanfadlli\r\n- feat(player): show buffered range on the seek bar @luqmanfadlli\r\n- fix(whats-new): show all releases on platforms without update channels @luqmanfadlli \r\n- feat: add",
@@ -260,20 +267,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.4\r\n\r\n## Upstream changelog:\r\n- fix(NUVIO-MOBILE-WZ): compact watched persistence to prevent OOM @tapframe\r\n- feat(collections): add TMDB Discover exclusion filters @tapframe\r\n- Fix watched badge memory leak @skoruppa\r\n- Simkl should not provide FullyWatchedSeriesKeys @skoruppa\r\n- fe",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.4/Nuvio-v0.4.4-Enhanced.ipa",
           "size": 49330552
-        },
-        {
-          "version": "0.4.3 (Full)",
-          "date": "2026-08-10",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync p",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.3/Nuvio-v0.4.3-Full.ipa",
-          "size": 48278846
-        },
-        {
-          "version": "0.4.3 (Full)",
-          "date": "2026-08-10",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync p",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.3/Nuvio-v0.4.3-Enhanced.ipa",
-          "size": 49325934
         }
       ]
     }
