@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.5.10-beta (Full)",
+          "date": "2026-10-14",
+          "localizedDescription": "feat(ios): adopt @albertovinaroz morphed tabbar via native segmented glass bar @luqmanfadlli\r\nfix(details): start from the top of the list after re-sorting episodes @luqmanfadlli\r\nfeat(details): show the episode navigator for every season @luqmanfadlli\r\nfeat(details): add episode search, go-to and s",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.5.10-beta/nuvio-0.5.10-enhanced-release.ipa",
+          "size": 71604983
+        },
+        {
           "version": "0.5.9-beta (Full)",
           "date": "2026-10-11",
           "localizedDescription": "- fix(ios): restore Kotlin/Native build for biometric profile lock @luqmanfadlli \r\n- feat(tracking): add anilist integration with id tracking, scrobbling, and library @chrisk325\r\n- feat(login): add biometric profile lock @jeff25steve\r\n- feat(servers): sync libraries that mix movies and shows @tapfra",
@@ -246,20 +253,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgari",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.6/Nuvio-v0.4.6-Enhanced.ipa",
           "size": 63209183
-        },
-        {
-          "version": "0.4.5 (Full)",
-          "date": "2026-08-13",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Varia",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.5/Nuvio-v0.4.5-Full.ipa",
-          "size": 48321307
-        },
-        {
-          "version": "0.4.5 (Full)",
-          "date": "2026-08-13",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Varia",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.5/Nuvio-v0.4.5-Enhanced.ipa",
-          "size": 49333635
         }
       ]
     }
