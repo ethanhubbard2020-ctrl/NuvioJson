@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.1-beta (Full)",
+          "date": "2026-10-16",
+          "localizedDescription": "# 0.6.1-beta:\r\n- fix(ios): merge duplicate MetalLayer.nextDrawable overrides @luqmanfadlli \r\n- fix(streams): adapt the party shared-stream header to fork pinning @luqmanfadlli\r\n- fix(party): let only the host change what's playing @tapframe\r\n- fix(home): update dynamic background for dark hero artwo",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.1-beta/nuvio-0.6.1-enhanced-release.ipa",
+          "size": 72640851
+        },
+        {
           "version": "0.5.10-beta (Full)",
           "date": "2026-10-14",
           "localizedDescription": "feat(ios): adopt @albertovinaroz morphed tabbar via native segmented glass bar @luqmanfadlli\r\nfix(details): start from the top of the list after re-sorting episodes @luqmanfadlli\r\nfeat(details): show the episode navigator for every season @luqmanfadlli\r\nfeat(details): add episode search, go-to and s",
@@ -239,20 +246,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.7\r\n\r\n## Upstream changelog:\r\n- feat: v1 for supporter perks @tapframe\r\n- Align SDH filtering with MPV @haaihond\r\n- Harden SDH subtitle filtering @haaihond\r\n- Clean up SDH subtitle stripping changes @haaihond\r\n- Add SDH subtitle stripping @haaihond\r\n\r\n## Enhanced changelog:\r\n- All ch",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.7/Nuvio-v0.4.7-Enhanced.ipa",
           "size": 63572676
-        },
-        {
-          "version": "0.4.6 (Full)",
-          "date": "2026-08-18",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgari",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.6/Nuvio-v0.4.6-Full.ipa",
-          "size": 48558581
-        },
-        {
-          "version": "0.4.6 (Full)",
-          "date": "2026-08-18",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgari",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.6/Nuvio-v0.4.6-Enhanced.ipa",
-          "size": 63209183
         }
       ]
     }
