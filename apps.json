@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.2-beta (Full)",
+          "date": "2026-10-19",
+          "localizedDescription": "- feat(player): optional libmpv libass renderer for ASS/SSA on ExoPlayer @chrisk325\r\n- fix(player): soften liquid glass on player controls @chrisk325\r\n- fix(android): apply the player orientation toggle @luqmanfadlli\r\n- feat(player): orientation toggle for portrait videos @luqmanfadlli\r\n- fix(androi",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.2-beta/nuvio-0.6.2-enhanced-release.ipa",
+          "size": 72991139
+        },
+        {
           "version": "0.6.1-beta (Full)",
           "date": "2026-10-16",
           "localizedDescription": "# 0.6.1-beta:\r\n- fix(ios): merge duplicate MetalLayer.nextDrawable overrides @luqmanfadlli \r\n- fix(streams): adapt the party shared-stream header to fork pinning @luqmanfadlli\r\n- fix(party): let only the host change what's playing @tapframe\r\n- fix(home): update dynamic background for dark hero artwo",
@@ -232,20 +239,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading scree",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.8/Nuvio-v0.4.8-Enhanced.ipa",
           "size": 63647734
-        },
-        {
-          "version": "0.4.7 (Full)",
-          "date": "2026-08-20",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.7\r\n\r\n## Upstream changelog:\r\n- feat: v1 for supporter perks @tapframe\r\n- Align SDH filtering with MPV @haaihond\r\n- Harden SDH subtitle filtering @haaihond\r\n- Clean up SDH subtitle stripping changes @haaihond\r\n- Add SDH subtitle stripping @haaihond\r\n\r\n## Enhanced changelog:\r\n- All ch",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.7/Nuvio-v0.4.7-Full.ipa",
-          "size": 48902774
-        },
-        {
-          "version": "0.4.7 (Full)",
-          "date": "2026-08-20",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.7\r\n\r\n## Upstream changelog:\r\n- feat: v1 for supporter perks @tapframe\r\n- Align SDH filtering with MPV @haaihond\r\n- Harden SDH subtitle filtering @haaihond\r\n- Clean up SDH subtitle stripping changes @haaihond\r\n- Add SDH subtitle stripping @haaihond\r\n\r\n## Enhanced changelog:\r\n- All ch",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.7/Nuvio-v0.4.7-Enhanced.ipa",
-          "size": 63572676
         }
       ]
     }
