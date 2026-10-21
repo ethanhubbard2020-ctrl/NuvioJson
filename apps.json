@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.3-beta (Full)",
+          "date": "2026-10-21",
+          "localizedDescription": "- feat(subtitle): add custom font and shadow (#227) @luqmanfadlli\r\n- Translate new strings to pt-BR and some minor changes (#223) @mikhaelvm\r\n- fix(player): liquid glass regression from the mpv libass layer @chrisk325\r\n- feat(streams): liquid glass search bar @chrisk325\r\n- feat: Discord Rich Presenc",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.3-beta/nuvio-0.6.3-enhanced-release.ipa",
+          "size": 73495899
+        },
+        {
           "version": "0.6.2-beta (Full)",
           "date": "2026-10-19",
           "localizedDescription": "- feat(player): optional libmpv libass renderer for ASS/SSA on ExoPlayer @chrisk325\r\n- fix(player): soften liquid glass on player controls @chrisk325\r\n- fix(android): apply the player orientation toggle @luqmanfadlli\r\n- feat(player): orientation toggle for portrait videos @luqmanfadlli\r\n- fix(androi",
@@ -225,20 +232,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync):",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.10/Nuvio-v0.4.10-Full.ipa",
           "size": 49044145
-        },
-        {
-          "version": "0.4.8 (Full)",
-          "date": "2026-08-23",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading scree",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.8/Nuvio-v0.4.8-Full.ipa",
-          "size": 48978402
-        },
-        {
-          "version": "0.4.8 (Full)",
-          "date": "2026-08-23",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading scree",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.8/Nuvio-v0.4.8-Enhanced.ipa",
-          "size": 63647734
         }
       ]
     }
