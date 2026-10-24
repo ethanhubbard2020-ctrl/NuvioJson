@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.4-beta (Full)",
+          "date": "2026-10-24",
+          "localizedDescription": "- feat backup export and import under advanced settings (#254) @chrisk325\r\n- fix padding for legacy layout player (#253) @chrisk325\r\n- fix(player): let the player controls use the full screen width @luqmanfadlli\r\n- fix(player): fade the controls out instead of dropping them @luqmanfadlli\r\n- feat(lib",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.4-beta/nuvio-0.6.4-enhanced-release.ipa",
+          "size": 72679701
+        },
+        {
           "version": "0.6.3-beta (Full)",
           "date": "2026-10-21",
           "localizedDescription": "- feat(subtitle): add custom font and shadow (#227) @luqmanfadlli\r\n- Translate new strings to pt-BR and some minor changes (#223) @mikhaelvm\r\n- fix(player): liquid glass regression from the mpv libass layer @chrisk325\r\n- feat(streams): liquid glass search bar @chrisk325\r\n- feat: Discord Rich Presenc",
@@ -218,20 +225,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.11\r\n\r\n## Note: I won't build Full version anymore because it's now officially released [here](https://github.com/NuvioMedia/NuvioMobile/releases).\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Up",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.11/Nuvio-v0.4.11-Enhanced.ipa",
           "size": 66340072
-        },
-        {
-          "version": "0.4.10 (Full)",
-          "date": "2026-08-24",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync):",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.10/Nuvio-v0.4.10-Enhanced.ipa",
-          "size": 63711565
-        },
-        {
-          "version": "0.4.10 (Full)",
-          "date": "2026-08-24",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync):",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.10/Nuvio-v0.4.10-Full.ipa",
-          "size": 49044145
         }
       ]
     }
