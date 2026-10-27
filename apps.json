@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.5-beta (Full)",
+          "date": "2026-10-27",
+          "localizedDescription": "- feat(player): apply the Show Chapters toggle to every engine @luqmanfadlli\r\n- fix(player): resolve double padding on overlay text @luqmanfadlli\r\n- fix(player): show a zoom icon for pinch-to-zoom feedback @luqmanfadlli\r\n- fix(player): keep the new layout's text clear of the notch @luqmanfadlli\r\n- f",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.5-beta/nuvio-0.6.5-enhanced-release.ipa",
+          "size": 72899544
+        },
+        {
           "version": "0.6.4-beta (Full)",
           "date": "2026-10-24",
           "localizedDescription": "- feat backup export and import under advanced settings (#254) @chrisk325\r\n- fix padding for legacy layout player (#253) @chrisk325\r\n- fix(player): let the player controls use the full screen width @luqmanfadlli\r\n- fix(player): fade the controls out instead of dropping them @luqmanfadlli\r\n- feat(lib",
@@ -218,13 +225,6 @@
           "localizedDescription": "# \ud83d\ude80 Release v0.4.12\r\n\r\n## Note: Update AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- fix(tmdb): use multiplatform map insertion @tapframe\r\n- feat(store): automate sideload source updates @tap",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.12/Nuvio-v0.4.12-Enhanced.ipa",
           "size": 66526080
-        },
-        {
-          "version": "0.4.11 (Full)",
-          "date": "2026-08-26",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.11\r\n\r\n## Note: I won't build Full version anymore because it's now officially released [here](https://github.com/NuvioMedia/NuvioMobile/releases).\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Up",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.11/Nuvio-v0.4.11-Enhanced.ipa",
-          "size": 66340072
         }
       ]
     }
