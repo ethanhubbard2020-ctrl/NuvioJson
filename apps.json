@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.6-beta (Full)",
+          "date": "2026-10-30",
+          "localizedDescription": "- fix(merge): fix build errors after upstream merge @luqmanfadlli\r\n- fix(settings): change subtitle size in 1 sp steps @luqmanfadlli\r\n- build(ios): use the Nuvio Enhanced MPVKit fork to support night mode audio @luqmanfadlli\r\n- fix(ios): hide night mode when MPVKit lacks the compressor filters @luqm",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.6-beta/nuvio-0.6.6-enhanced-release.ipa",
+          "size": 73635429
+        },
+        {
           "version": "0.6.5-beta (Full)",
           "date": "2026-10-27",
           "localizedDescription": "- feat(player): apply the Show Chapters toggle to every engine @luqmanfadlli\r\n- fix(player): resolve double padding on overlay text @luqmanfadlli\r\n- fix(player): show a zoom icon for pinch-to-zoom feedback @luqmanfadlli\r\n- fix(player): keep the new layout's text clear of the notch @luqmanfadlli\r\n- f",
@@ -218,13 +225,6 @@
           "localizedDescription": "## AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- feat(details): parse addon certifications @tapframe\r\n- fix(details): parse addon season posters @tapframe\r\n- fix(ui): handle delayed addon con",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.13/Nuvio-v0.4.13-Enhanced.ipa",
           "size": 66579308
-        },
-        {
-          "version": "0.4.12 (Full)",
-          "date": "2026-08-29",
-          "localizedDescription": "# \ud83d\ude80 Release v0.4.12\r\n\r\n## Note: Update AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- fix(tmdb): use multiplatform map insertion @tapframe\r\n- feat(store): automate sideload source updates @tap",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.12/Nuvio-v0.4.12-Enhanced.ipa",
-          "size": 66526080
         }
       ]
     }
