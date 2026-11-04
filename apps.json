@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.7-beta (Full)",
+          "date": "2026-11-04",
+          "localizedDescription": "- fix(ios): use the Compose sheet while Glass UI is on @luqmanfadlli\r\n- fix(ios): align profile insight frosted hero @luqmanfadlli\r\n- fix(ios): open the photo picker after the native sheet closes @luqmanfadlli\r\n- fix(party): join form on a glass card over the app background @luqmanfadlli\r\n- fix(prof",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.7-beta/nuvio-0.6.7-enhanced-release.ipa",
+          "size": 73889101
+        },
+        {
           "version": "0.6.6-beta (Full)",
           "date": "2026-10-30",
           "localizedDescription": "- fix(merge): fix build errors after upstream merge @luqmanfadlli\r\n- fix(settings): change subtitle size in 1 sp steps @luqmanfadlli\r\n- build(ios): use the Nuvio Enhanced MPVKit fork to support night mode audio @luqmanfadlli\r\n- fix(ios): hide night mode when MPVKit lacks the compressor filters @luqm",
@@ -218,13 +225,6 @@
           "localizedDescription": "## Upstream changelog:\r\n- fix(player): original audio language preference @tapframe\r\n- fix(player): allow minimum device brightness @tapframe\r\n- use Android User-Agent so IPTV DASH streams do not 403 (#1863) @halibiram\r\n- feat: updated Spanish string resource file for application localization (#1861",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.14/Nuvio-v0.4.14-Enhanced.ipa",
           "size": 66761280
-        },
-        {
-          "version": "0.4.13 (Full)",
-          "date": "2026-08-30",
-          "localizedDescription": "## AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- feat(details): parse addon certifications @tapframe\r\n- fix(details): parse addon season posters @tapframe\r\n- fix(ui): handle delayed addon con",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.13/Nuvio-v0.4.13-Enhanced.ipa",
-          "size": 66579308
         }
       ]
     }
