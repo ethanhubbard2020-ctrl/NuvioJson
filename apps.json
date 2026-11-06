@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.8-beta (Full)",
+          "date": "2026-11-05",
+          "localizedDescription": "- fix(ios): stop the skip ahead after Control Centre / Notification Centre (#311) @luqmanfadlli\r\n- feat(livetv): Live TV revamp with Channels, Guide, Sports and On Demand tabs, recents/favorites/category chips, grid view and collapsible search @luqmanfadlli\r\n- fix(autosync): keep AutoSync reachable ",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.8-beta/nuvio-0.6.8-enhanced-release.ipa",
+          "size": 74191271
+        },
+        {
           "version": "0.6.7-beta (Full)",
           "date": "2026-11-04",
           "localizedDescription": "- fix(ios): use the Compose sheet while Glass UI is on @luqmanfadlli\r\n- fix(ios): align profile insight frosted hero @luqmanfadlli\r\n- fix(ios): open the photo picker after the native sheet closes @luqmanfadlli\r\n- fix(party): join form on a glass card over the app background @luqmanfadlli\r\n- fix(prof",
@@ -218,13 +225,6 @@
           "localizedDescription": "## Upstream changelog:\r\n- fix(auth): synchronize shared client initialization @tapframe\r\n- fix(home): restore hero position when switching profiles @tapframe\r\n- fix(playback): disable play when no source is available @tapframe\r\n- fix(home): reduce hero height without continue watching @tapframe\r\n- F",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.15/Nuvio-v0.4.15-Enhanced.ipa",
           "size": 67833285
-        },
-        {
-          "version": "0.4.14 (Full)",
-          "date": "2026-09-05",
-          "localizedDescription": "## Upstream changelog:\r\n- fix(player): original audio language preference @tapframe\r\n- fix(player): allow minimum device brightness @tapframe\r\n- use Android User-Agent so IPTV DASH streams do not 403 (#1863) @halibiram\r\n- feat: updated Spanish string resource file for application localization (#1861",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.14/Nuvio-v0.4.14-Enhanced.ipa",
-          "size": 66761280
         }
       ]
     }
