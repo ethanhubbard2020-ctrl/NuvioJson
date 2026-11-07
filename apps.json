@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.9-beta (Full)",
+          "date": "2026-11-06",
+          "localizedDescription": "- fix(details): restore glass floating header in cinematic mode after upstream merge @luqmanfadlli\r\n- fix(ratings): restore enhanced in-app ratings on upstream merge @luqmanfadlli\r\n- fix(ios): keep the app background while the player is parked in PiP @luqmanfadlli\r\n- feat(search): Discover header wi",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.9-beta/nuvio-0.6.9-enhanced-release.ipa",
+          "size": 74916328
+        },
+        {
           "version": "0.6.8-beta (Full)",
           "date": "2026-11-05",
           "localizedDescription": "- fix(ios): stop the skip ahead after Control Centre / Notification Centre (#311) @luqmanfadlli\r\n- feat(livetv): Live TV revamp with Channels, Guide, Sports and On Demand tabs, recents/favorites/category chips, grid view and collapsible search @luqmanfadlli\r\n- fix(autosync): keep AutoSync reachable ",
@@ -218,13 +225,6 @@
           "localizedDescription": "- fix(home): settle hero carousel when returning @tapframe\r\n- fix(settings): require Trakt progress for continue watching window @tapframe\r\n- perf(ui): replace compottie spinner with native drawing @tapframe\r\n- feat(navigation): refine tablet bar and transition defaults @tapframe\r\n- feat(navigation)",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.16/Nuvio-v0.4.16-Enhanced.ipa",
           "size": 66025212
-        },
-        {
-          "version": "0.4.15 (Full)",
-          "date": "2026-09-09",
-          "localizedDescription": "## Upstream changelog:\r\n- fix(auth): synchronize shared client initialization @tapframe\r\n- fix(home): restore hero position when switching profiles @tapframe\r\n- fix(playback): disable play when no source is available @tapframe\r\n- fix(home): reduce hero height without continue watching @tapframe\r\n- F",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.15/Nuvio-v0.4.15-Enhanced.ipa",
-          "size": 67833285
         }
       ]
     }
