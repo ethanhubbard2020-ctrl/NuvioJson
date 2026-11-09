@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.10-beta (Full)",
+          "date": "2026-11-09",
+          "localizedDescription": "- perf(ios): memory optimization long sessions and 4K HDR/DV playback @luqmanfadlli\r\n- feat(player): add Anime4K 2x upscaler and line sharpener for ExoPlayer and mpv (#337) @chrisk325\r\n- fix(ios): detach the mpv metal layer before destroying mpv (#336) @luqmanfadlli\r\n- fix(player): start playback se",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.10-beta/nuvio-0.6.10-enhanced-release.ipa",
+          "size": 75374093
+        },
+        {
           "version": "0.6.9-beta (Full)",
           "date": "2026-11-06",
           "localizedDescription": "- fix(details): restore glass floating header in cinematic mode after upstream merge @luqmanfadlli\r\n- fix(ratings): restore enhanced in-app ratings on upstream merge @luqmanfadlli\r\n- fix(ios): keep the app background while the player is parked in PiP @luqmanfadlli\r\n- feat(search): Discover header wi",
@@ -218,13 +225,6 @@
           "localizedDescription": "- fix(plugins): restore iOS runtime compilation @tapframe\r\n- fix(player): disable binge group reuse by default @tapframe\r\n- perf(plugins): pause search during playback and match TV runtime (#1917) @halibiram\r\n- fix(plugins): align runtime APIs with upstream execution model @luqmanfadlli\r\n- fix(sync)",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.17/Nuvio-v0.4.17-Enhanced.ipa",
           "size": 66030339
-        },
-        {
-          "version": "0.4.16 (Full)",
-          "date": "2026-09-11",
-          "localizedDescription": "- fix(home): settle hero carousel when returning @tapframe\r\n- fix(settings): require Trakt progress for continue watching window @tapframe\r\n- perf(ui): replace compottie spinner with native drawing @tapframe\r\n- feat(navigation): refine tablet bar and transition defaults @tapframe\r\n- feat(navigation)",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.16/Nuvio-v0.4.16-Enhanced.ipa",
-          "size": 66025212
         }
       ]
     }
