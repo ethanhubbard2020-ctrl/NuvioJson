@@ -17,6 +17,13 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.12-beta (Full)",
+          "date": "2026-11-13",
+          "localizedDescription": "- fix(subtitles): config export/import and profile removal for device subtitle prefs @luqmanfadlli\r\n- feat(player): restore HLS quality chooser for Live TV @luqmanfadlli\r\n- Significantly increase anime line sharpener strength (#375) @chrisk325\r\n- fix imdb button not appearing on discord rpc (#373) @",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.12-beta/nuvio-0.6.12-enhanced-release.ipa",
+          "size": 75542331
+        },
+        {
           "version": "0.6.11-beta (Full)",
           "date": "2026-11-10",
           "localizedDescription": "- feature/subtitle shadow outline blur (#356) @3l-franco\r\n- perf(ios): free more app memory before playback on iPhones @luqmanfadlli\r\n- perf(ios): lighter mpv setup under the iPhone jetsam limit @luqmanfadlli\r\n- fix(mdblist): reuse progress and watched lists until a remap changes them @tapframe\r\n- f",
@@ -218,13 +225,6 @@
           "localizedDescription": "- feat(streams): add mobile background selection @tapframe\r\n- fix(player): center loading title and logo @tapframe\r\n- feat(player): dismiss next episode prompt with a right swipe @tapframe\r\n- fix(details): match toggle styles and remove duplicate season headings @tapframe\r\n- fix(library): sync title",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.20/Nuvio-v0.4.20-Enhanced.ipa",
           "size": 66202899
-        },
-        {
-          "version": "0.4.19 (Full)",
-          "date": "2026-09-14",
-          "localizedDescription": "- fix(profiles): stabilize popup size transitions @tapframe\r\n- fix(details): apply poster radius to episode list cards @tapframe\r\n- fix(home): apply poster settings to continue watching cards @tapframe\r\n- fix(streams): position sources panel below ios toolbar @tapframe\r\n- fix(navigation): preserve t",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.19/Nuvio-v0.4.19-Enhanced.ipa",
-          "size": 66122278
         }
       ]
     }
